@@ -1,0 +1,238 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+InfoSacco1.1
+</name>
+</assembly>
+<members>
+<member name="T:InfoSacco1._1.adderPage">
+<summary>
+adderPage
+</summary>
+</member>
+<member name="M:InfoSacco1._1.adderPage.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.ConductorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.DriversDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.VehiclesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.ConductorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.DriversRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.VehiclesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.ConductorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.DriversRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSet.VehiclesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.ConductorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.DriversTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.VehiclesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(InfoSacco1._1.Kukena_SaccoDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(InfoSacco1._1.Kukena_SaccoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(InfoSacco1._1.Kukena_SaccoDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager.UpdateAll(InfoSacco1._1.Kukena_SaccoDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Kukena_SaccoDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Login_Page">
+<summary>
+Login_Page
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Login_Page.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:InfoSacco1._1.mainPage">
+<summary>
+mainPage
+</summary>
+</member>
+<member name="M:InfoSacco1._1.mainPage.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:InfoSacco1._1.searchPage">
+<summary>
+searchPage
+</summary>
+</member>
+<member name="M:InfoSacco1._1.searchPage.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:InfoSacco1._1.viewPage">
+<summary>
+viewPage
+</summary>
+</member>
+<member name="M:InfoSacco1._1.viewPage.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:InfoSacco1._1.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:InfoSacco1._1.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:InfoSacco1._1.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:InfoSacco1._1.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:InfoSacco1._1.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:InfoSacco1._1.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:InfoSacco1._1.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:InfoSacco1._1.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:InfoSacco1._1.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:InfoSacco1._1.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:InfoSacco1._1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:InfoSacco1._1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:InfoSacco1._1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

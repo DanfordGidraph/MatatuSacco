@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InfoSacco1._1.searchPage" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAABAABAEAAAAAEAAQAAAAAAAAAQCAAAAAA=</HashCode>
+      <FileName>searchPage.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InfoSacco1._1.searchGridTableWindow" Collapsed="true">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAgAAAgAAAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>searchGridTableWindow.xaml.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

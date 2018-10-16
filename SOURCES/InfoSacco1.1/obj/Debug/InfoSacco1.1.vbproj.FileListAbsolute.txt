@@ -1,0 +1,132 @@
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.exe
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.pdb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.xml
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.vbprojResolveAssemblyReference.cache
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\MainWindow.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\Application.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1_MarkupCompile.cache
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1_MarkupCompile.lref
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\MainWindow.baml
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.g.resources
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1._1.Resources.resources
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.vbproj.GenerateResource.Cache
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.exe
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.xml
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.pdb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Kukena_Sacco.accdb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\viewPage.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1_Content.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\viewPage.baml
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\adderPage.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\searchPage.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\mainPage.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\adderPage.baml
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\searchPage.baml
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\mainPage.baml
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.exe.config
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\Login_Page.g.vb
+C:\Users\Dunford Mainor\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\Login_Page.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Kukena_Sacco.accdb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.exe.config
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.exe
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.pdb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\InfoSacco1.1.xml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\adderPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\Login_Page.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\mainPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\MainWindow.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\searchPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\viewPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\Application.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1_Content.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1_MarkupCompile.cache
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1_MarkupCompile.lref
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\adderPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\Login_Page.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\mainPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\MainWindow.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\searchPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\viewPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.g.resources
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1._1.Resources.resources
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.vbproj.GenerateResource.Cache
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.exe
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.xml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.pdb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\InfoSacco1.1\obj\Debug\InfoSacco1.1.vbprojResolveAssemblyReference.cache
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\InfoSacco1.1.exe.config
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1.exe
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1.xml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1.pdb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\Kukena_Sacco.accdb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\InfoSacco1.1.exe
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\InfoSacco1.1.pdb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\InfoSacco1.1.xml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1.vbprojResolveAssemblyReference.cache
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\adderPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\Login_Page.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\mainPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\MainWindow.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\searchPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\viewPage.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\Application.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1_Content.g.vb
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1_MarkupCompile.cache
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1_MarkupCompile.lref
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\adderPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\Login_Page.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\mainPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\MainWindow.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\searchPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\viewPage.baml
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1.g.resources
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1._1.Resources.resources
+C:\Users\danma\OneDrive\Documents\Visual Studio 2015\Projects\InfoSacco1.1\SOURCES\InfoSacco1.1\obj\Debug\InfoSacco1.1.vbproj.GenerateResource.Cache
